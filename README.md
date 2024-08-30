@@ -11,6 +11,9 @@ What I'm currently exploring:
 Let's connect! 🤝
 
 🔗 GitHub: https://github.com/SAB1825/SAB1825
+
 📧 Email: sabarisekar777@gmail.com
+
 💬 LinkedIn: https://www.linkedin.com/in/sabari-s-065779293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+
 Feel free to explore my projects and drop me a message if you have any questions or collaborations in mind.
