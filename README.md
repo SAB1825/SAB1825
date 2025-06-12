@@ -50,7 +50,7 @@ I'm a passionate developer diving deep into the world of full-stack development 
 ### 🧠 LeetCode Stats
 
 <!-- Replace the username below with your LeetCode username -->
-[![Leetcode Stats](https://leetcard.jacoblin.cool/SAB1825?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/u/SABARI_SEKAR/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/SABARI_SEKAR?theme=forest&font=IBM%20Plex%20Mono)
 
 ---
 
